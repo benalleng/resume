@@ -2,10 +2,13 @@
 
 This is a project that I built to disply my skills using HTML and CSS.
 
+Donwload my resume [Here](https://github.com/benalleng/resume/releases/tag/PDF)
+
 ## Technologies used
 
 - HTML
 - CSS
+- Markdown
 
 ## Enhancements
 

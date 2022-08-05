@@ -9,7 +9,14 @@ header {
     align-items: center;
     justify-content: center;
     background-color: dodgerblue;
-    height: 50px;
+    height: 75px;
     color: white;
     font-family: Helvetica;
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    height: 35px;
 }
