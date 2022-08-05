@@ -17,5 +17,5 @@ This is a project that I built to disply my skills using HTML and CSS.
 - WIP
 
 ### Other Links
-- MySite:
-[http://zlpqrgka4kybfycelfdayxloixbqzfptukhb6a525wiewacoeu6v2vqd.onion]
+- Personal Website:
+[OnionLink](http://zlpqrgka4kybfycelfdayxloixbqzfptukhb6a525wiewacoeu6v2vqd.onion)
